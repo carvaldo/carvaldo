@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=carvaldo&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=react">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=carvaldo&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=dark">
 
 ### Oi! Eu sou o David Carvalho. 👋
 
