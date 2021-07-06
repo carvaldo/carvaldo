@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=carvaldo&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=dark">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /><img align='right' src="https://github-readme-stats.vercel.app/api?username=carvaldo&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=dark"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 
 ### Oi! Eu sou o David Carvalho. 👋
 
