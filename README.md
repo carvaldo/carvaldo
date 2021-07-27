@@ -4,8 +4,8 @@
 
 Sou desenvolvedor na LxTec Informática. Atualmente, trabalho com desenvolvimento e manutenção de software de sistemas gerenciais, desenvolvidos com PHP 5/7 + HTML 5 + JQuery + CSS 3 + Bootstrap 4 + Doctrine. Já trabalhei com desenvolvimento de aplicativos para smartphones Android para diferentes segmentações, utilizando as bibliotecas de arquitetura Android (Android Archtecture Components) + Java/Kotlin. Meus trabalhos com Android, atualmente, se limitam a projetos pessoais públicos e privados.
 
-
-##### Projetos #####
-* [DOak Realtime Database ORM!](https://github.com/carvaldo/DOak-Realtime-Database-ORM)
-* [DOak Form Extensions!](https://github.com/carvaldo/DOak-Form-Extensions)
-* [DOak ImageView!](https://github.com/carvaldo/DOak-ImageView)
+Projetos | Porfólio
+---------|---------
+[DOak Realtime Database ORM - Persistência de dados com Firebase](https://github.com/carvaldo/DOak-Realtime-Database-ORM) | [Fimo - IMDB API Client](https://github.com/carvaldo/Digital-Innovation-One/tree/master/bootcamps/Inter-Android-Developer/Fimo)
+[DOak Form Extensions - Views para criação de formulários no Android](https://github.com/carvaldo/DOak-Form-Extensions) | 
+[DOak ImageView - Fácil carregamento de imagens no Android](https://github.com/carvaldo/DOak-ImageView) | 
