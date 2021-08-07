@@ -6,6 +6,6 @@ Sou desenvolvedor na LxTec Informática. Atualmente, trabalho com desenvolviment
 
 Projetos | Porfólio
 ---------|---------
-[DOak Realtime Database ORM - Persistência de dados com Firebase](https://github.com/carvaldo/DOak-Realtime-Database-ORM) | [Fimo - Android IMDB API Client](https://github.com/carvaldo/Digital-Innovation-One/tree/master/bootcamps/Inter-Android-Developer/Fimo)
-[DOak Form Extensions - Views para criação de formulários no Android](https://github.com/carvaldo/DOak-Form-Extensions) | [Fimo - API](https://github.com/carvaldo/Digital-Innovation-One/tree/master/bootcamps/Everis-Quality-Assurance-Beginner/Fimo-API) 
-[DOak ImageView - Fácil carregamento de imagens no Android](https://github.com/carvaldo/DOak-ImageView) | 
+[DOak Realtime Database ORM - Persistência de dados com Firebase (em progresso)](https://github.com/carvaldo/DOak-Realtime-Database-ORM) | [Fimo - Android IMDB API Client (em progresso)](https://github.com/carvaldo/Digital-Innovation-One/tree/master/bootcamps/Inter-Android-Developer/Fimo)
+[DOak Form Extensions - Views para criação de formulários no Android (em progresso)](https://github.com/carvaldo/DOak-Form-Extensions) | [Fimo - API (em progresso)](https://github.com/carvaldo/Digital-Innovation-One/tree/master/bootcamps/Everis-Quality-Assurance-Beginner/Fimo-API) 
+[DOak ImageView - Fácil carregamento de imagens no Android (em progresso)](https://github.com/carvaldo/DOak-ImageView) | 
