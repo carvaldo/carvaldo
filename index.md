@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Quem sou eu?
 
-You can use the [editor on GitHub](https://github.com/carvaldo/carvaldo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Sou desenvolvedor há mais de 7 anos, trabalhando sempre com desenvolvimento fullstack. Por essas "estradas" que percorri, o maior foco da minha experiência foi com o desenvolvimento de aplicativos voltados para dispositivos móveis Android voltados para diferentes nichos. Ao longo desses mais de 7 anos, trabalhei também desenvolvendo e prestando manutenção de softwares como serviço, utilizando tecnologias como PHP/CakePHP e MySQL. Atualmente, sigo trabalhando na manutenção de diferentes softwares como serviços, disponibilizados pela [LxTec Informática](https://lxtec.com.br/), meu atual empregador, e também no desenvolvimento de novas soluções, utlizando Go como linguagem para o backend e Flutter para os aplicativos móveis.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Experiência
 
-### Markdown
+* __Lxtec Informática__ - desde abril de 2021<br>
+  * Desenvolvedor Fullstack
+  * Na LxTec é onde estou tendo a minha maior experiência como desenvolvedor com foco em softwares web e sistemas legados, trabalhando na manutenção dos sistemas escritos com linguagem PHP, sem framework, tendo no máximo, mapeamento objeto relacional com Doctrine. Atualmente, estou retornando aos poucos ao desenvolvimento de aplicativos móveis, mas desta vez, sendo escrito com Flutter. Propus o uso dessa tecnologia, tendo em vista o espoco atual, possiveis expansões futuras de escopo do projeto e possível lancamento do novo sistema operacional da Google, o projeto Fuchsia. Para esse novo projeto, é necessário desenvolver um backend, onde foi decidido pela equipe e gestor, que será utilizado a linguagem de programação Go. Trabalhar com essas tecnologias está sendo uma experiência muito diferente das linguagens que trabalhei até então, estou adorando poder vivenciar isso na empresa, expandindo meus próprios horizontes. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* __Catwork Tecnologia__ - maio de 2017 - abril de 2021 (4 anos)<br>
+  * Desenvolvedor Fullstack
+  * Na Catwork, mesmo atualmento como fullstack, lá  meu foco também foi o desenvolvimento de aplicativos para dispositivos móveis Android. Inicialmente, trabalhei no desenvolvimento de aplicativos para empresas de terceiros, posteriormente vindo a trabalhar no desenvolvimento de um aplicativo para um dos módulos do SaaS da empresa, o Gerente Boviplan. O aplicativo era focado no gerenciamento do manuseio dos gados de corte pelos operários, cuja informações deveriam ser posteriormente sincronizadas com o software web. Infelizmente, por motivo de força maior, precisei sair do projeto antes de sua conclusão, mas deixando o projeto em estado avançado. Nessa experiência, vivenciei grandes mudanças no desenvolvimento dos aplicativos para Android, dando um destaque em especial para as bibliotecas de arquitura Android, o JetPack, o que para mim, mudou totalmente minha visão e experiência no desenvolvimento de aplicativos. Tornando o código muito mais enxuto e a experiência mais prazerosa. 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/carvaldo/carvaldo/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* __Geneplus Consultoria Agropecuária (Embrapa Gado de Corte)__ - outubro de 2014 - fevereiro de 2017 (2 anos 5 meses)<br>
+  * Estagiário em desenvolvimento Android
+  * Na Embrapa dei meus primeiros passos na programação. Lá desenvolvi os primeiros aplicaticos da Geneplus para a disponobilização dos sumários de touros em dispositivos móveis Android, tendo como linguagem de programação o Java e, na época, o recém lançado guia de experiência de usuário, Material Design.
