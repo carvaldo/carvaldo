@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
 title: David Carvalho - Fullstack
 description: <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /><br>Desenvolvedor com experiência em desenvolvimento de aplicativos para dispositivos Android utilizando Java e Kotlin, em desenvolvimento de sites, SaaS e backend com PHP/CakePHP. Atualmente trabalho na manutenção de softwares como serviços, escritos com PHP, e no desenvolvimento de novas soluções em backend com Go e aplicativos móveis com Flutter.
