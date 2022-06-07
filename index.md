@@ -4,7 +4,7 @@ Sou desenvolvedor há mais de 7 anos, trabalhando sempre com desenvolvimento ful
 
 ### Projetos
 
-Bibliotecas | Portfólio
+Bibliotecas | Aplicativos
 ---------|---------
 [DOak Realtime Database ORM - Persistência de dados com Firebase (em progresso)](https://github.com/carvaldo/DOak-Realtime-Database-ORM) | [Fimo - Android IMDB API Client (em progresso)](https://github.com/carvaldo/Digital-Innovation-One/tree/master/bootcamps/Inter-Android-Developer/Fimo)
 [DOak Form Extensions - Views para criação de formulários no Android (em progresso)](https://github.com/carvaldo/DOak-Form-Extensions) | [Fimo - API (em progresso)](https://github.com/carvaldo/Digital-Innovation-One/tree/master/bootcamps/Everis-Quality-Assurance-Beginner/Fimo-API) 
