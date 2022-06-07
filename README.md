@@ -10,6 +10,7 @@ Bibliotecas | Plataforma | Status
 [DOak Form Extensions - Views para criação de formulários no Android](https://github.com/carvaldo/DOak-Form-Extensions) | Android (Kotlin) | Interrompido
 [DOak ImageView - Fácil carregamento de imagens no Android](https://github.com/carvaldo/DOak-ImageView) | Android (Kotlin) | Interrompido
 
+
 Aplicativos / Microsserviços | Linguagem / Framework | Status 
 ---------|---------|---------
 [Fimo - Android IMDB API Client](https://github.com/carvaldo/Digital-Innovation-One/tree/master/bootcamps/Inter-Android-Developer/Fimo) | Android (Kotlin) | Interrompido
