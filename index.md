@@ -2,6 +2,14 @@
 
 Sou desenvolvedor há mais de 7 anos, trabalhando sempre com desenvolvimento fullstack. Por essas "estradas" que percorri, o maior foco da minha experiência foi com o desenvolvimento de aplicativos voltados para dispositivos móveis Android voltados para diferentes nichos. Ao longo desses mais de 7 anos, trabalhei também desenvolvendo e prestando manutenção de softwares como serviço, utilizando tecnologias como PHP/CakePHP e MySQL. Atualmente, sigo trabalhando na manutenção de diferentes softwares como serviços, disponibilizados pela [LxTec Informática](https://lxtec.com.br/), meu atual empregador, e também no desenvolvimento de novas soluções, utlizando Go como linguagem para o backend e Flutter para os aplicativos móveis.
 
+### Projetos
+
+Bibliotecas | Portfólio
+---------|---------
+[DOak Realtime Database ORM - Persistência de dados com Firebase (em progresso)](https://github.com/carvaldo/DOak-Realtime-Database-ORM) | [Fimo - Android IMDB API Client (em progresso)](https://github.com/carvaldo/Digital-Innovation-One/tree/master/bootcamps/Inter-Android-Developer/Fimo)
+[DOak Form Extensions - Views para criação de formulários no Android (em progresso)](https://github.com/carvaldo/DOak-Form-Extensions) | [Fimo - API (em progresso)](https://github.com/carvaldo/Digital-Innovation-One/tree/master/bootcamps/Everis-Quality-Assurance-Beginner/Fimo-API) 
+[DOak ImageView - Fácil carregamento de imagens no Android (em progresso)](https://github.com/carvaldo/DOak-ImageView) | 
+
 ### Experiência
 
 * __Lxtec Informática__ - desde abril de 2021<br>
